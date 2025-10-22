@@ -101,7 +101,7 @@
         name="org.eclipse.pde.feature.group"/>
     <requirement
         name="org.eclipse.xtext.sdk.feature.group"
-        versionRange="[2.28.0,2.29.0)"/>
+        versionRange="[2.36.0,2.37.0)"/>
     <requirement
         name="org.eclipse.oomph.setup.sdk.feature.group"/>
     <requirement
@@ -113,7 +113,7 @@
     <requirement
         name="org.eclipse.epp.mpc.feature.group"/>
     <repository
-        url="http://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.28.0"/>
+        url="http://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.36.0"/>
     <repository
         url="https://rtsys.informatik.uni-kiel.de/~kieler/updatesite/checkstyle"/>
     <repository
@@ -330,7 +330,7 @@
             name="org.eclipse.emf.sdk.feature.group"/>
         <requirement
             name="org.eclipse.xtext.sdk.feature.group"
-            versionRange="[2.28.0,2.29.0)"/>
+            versionRange="[2.36.0,2.37.0)"/>
         <requirement
             name="org.eclipse.lsp4j.sdk.feature.group"/>
         <requirement
@@ -344,13 +344,13 @@
         <repositoryList
             name="FixedTarget">
           <repository
-              url="http://download.eclipse.org/releases/2022-09"/>
+              url="http://download.eclipse.org/releases/2024-12"/>
           <repository
               url="http://download.eclipse.org/lsp4j/updates/releases/0.15.0"/>
           <repository
               url="http://download.eclipse.org/tools/orbit/downloads/drops/R20220830213456/repository/"/>
           <repository
-              url="http://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.28.0/"/>
+              url="http://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.36.0/"/>
         </repositoryList>
       </targlet>
     </setupTask>
